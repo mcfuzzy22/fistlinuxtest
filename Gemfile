@@ -36,7 +36,7 @@ gem "bootsnap", require: false
 gem 'better_errors', '~> 2.10', '>= 2.10.1'
 gem 'bulma-rails', '~> 1.0', '>= 1.0.2'
 gem 'simple_form', '~> 5.3', '>= 5.3.1'
-gem 'guard', '~> 2.18', '>= 2.18.1'
+gem 'guard', '~> 2.19'
 gem 'guard-livereload', '~> 2.5', '>= 2.5.2'
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
